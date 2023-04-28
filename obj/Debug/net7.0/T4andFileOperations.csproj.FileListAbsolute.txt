@@ -1,0 +1,15 @@
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\bin\Debug\net7.0\T4andFileOperations.exe
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\bin\Debug\net7.0\T4andFileOperations.deps.json
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\bin\Debug\net7.0\T4andFileOperations.runtimeconfig.json
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\bin\Debug\net7.0\T4andFileOperations.dll
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\bin\Debug\net7.0\T4andFileOperations.pdb
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.csproj.AssemblyReference.cache
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.AssemblyInfoInputs.cache
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.AssemblyInfo.cs
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.csproj.CoreCompileInputs.cache
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.dll
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\refint\T4andFileOperations.dll
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.pdb
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\T4andFileOperations.genruntimeconfig.cache
+C:\Users\Nihad Soltanov\Desktop\CodeAcademy\MyCodes\Tasks3\T4andFileOperations\obj\Debug\net7.0\ref\T4andFileOperations.dll
